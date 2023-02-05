@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development at @microverseinc**
 
-- 💬 Ask me about **Vanilla Javascript**
+- 💬 Ask me about **Vanilla Javascript React | Redux | HTML| CSS | Bootstrap**
 
 - 📫 How to reach me **abdulahadb802@gmail.com**
 
@@ -23,7 +23,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/abdul-ahad-502148186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-ahad-502148186" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul-ahadb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-ahad-502148186" height="30" width="40" /></a>
 <a href="https://fb.com/ablii.bhatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ablii.bhatti" height="30" width="40" /></a>
 <a href="https://instagram.com/makhann_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="makhann_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdulahadb802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdulahadb802" height="30" width="40" /></a>
