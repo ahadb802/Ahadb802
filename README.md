@@ -6,7 +6,6 @@
 
 <br>
 <br>
----
 
 
 - 🌱 I’m currently learning **Full Stack Web Development at @microverseinc**
@@ -20,7 +19,7 @@
 <br>
 <br>
 <br>
-
+<p align="center">
 ## 🏆 GitHub Trophies
 [![](https://visitcount.itsvg.in/api?id=ahadb802&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://github-profile-trophy.vercel.app/?username=ahadb802&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -40,7 +39,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
