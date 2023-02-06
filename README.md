@@ -19,15 +19,15 @@
 <br>
 <br>
 <br>
-
+<span align="center">
 
 ## 🏆 GitHub Trophies
 [![](https://visitcount.itsvg.in/api?id=ahadb802&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br>
-<span align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=ahadb802&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</span>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-ahad-bhatti-502148186/) 
@@ -46,3 +46,4 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</span>
